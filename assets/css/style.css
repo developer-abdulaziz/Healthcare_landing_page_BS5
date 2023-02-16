@@ -102,5 +102,38 @@ header {
 .banner_btn a:hover {
     background:  var(--mainColor);
     color: #FFFFFF;
+}
+
+/*==================================== main  ========================*/
+main {
+    font-family: var(--ffamily--roboto);
+}
+/*------------------- solution section  --------------------*/
+.solution_title {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    /* line-height: 70px; */
+    color: #3E3E3E;
+}
+/* .solution_area {
+    display: flex;
+    gap: 10px;
+} */
+.solution_service h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    /* line-height: 32px; */
+    color: #3D3D3F;
+}
+.solution_service p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    /* line-height: 20px; */
+    text-align: center;
+    color: #919191;
 
 }
