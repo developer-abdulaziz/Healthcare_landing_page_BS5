@@ -117,10 +117,6 @@ main {
     /* line-height: 70px; */
     color: #3E3E3E;
 }
-/* .solution_area {
-    display: flex;
-    gap: 10px;
-} */
 .solution_service h3 {
     font-style: normal;
     font-weight: 500;
@@ -136,4 +132,44 @@ main {
     text-align: center;
     color: #919191;
 
+}
+/*------------------- Quality service section  --------------------*/
+.quality_content h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    letter-spacing: 0.02em;
+    color: #3D3D3F;
+}
+.quality_content p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: rgba(61, 61, 63, 0.7);
+}
+
+.dragDrop {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    gap: 10px;
+}
+.dragDrop p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #3D3D3F;
+}
+
+.quality_content .menu_btn {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
 }
