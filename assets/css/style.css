@@ -290,6 +290,9 @@ main {
 }
 
 /*------------------- Mobile apps section  --------------------*/
+.mobileApps {
+    margin-bottom: 40px;
+}
 .app_content h2 {
     font-style: normal;
     font-weight: 500;
@@ -305,4 +308,29 @@ main {
     letter-spacing: 0.02em;
     color: rgba(61, 61, 63, 0.7);
     margin-bottom: 30px;
+}
+
+/*-------------------  Appointment section  --------------------*/
+.appointment {
+    background: var(--mainColor);
+}
+/* .appointment {
+    background-image: url(/assets/image/Group\ 1876.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+} */
+.a_content h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+.a_content a {
+    background: #FFFFFF;
+    color: var(--mainColor);
+    margin-top: 10px;
 }
