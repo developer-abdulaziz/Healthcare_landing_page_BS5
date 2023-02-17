@@ -134,6 +134,9 @@ main {
 
 }
 /*------------------- Quality service section  --------------------*/
+.quality_service {
+    margin-bottom: 100px;
+}
 .quality_content h3 {
     font-style: normal;
     font-weight: 500;
@@ -172,4 +175,27 @@ main {
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #FFFFFF;
+}
+/*------------------- Service section  --------------------*/
+.service_title {
+    text-align: center;
+    margin-bottom: 70px;
+}
+.service_title h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    letter-spacing: 0.02em;
+    color: #3D3D3F;
+    margin-bottom: 24px;
+    text-align: center;
+}
+.service_title p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: rgba(61, 61, 63, 0.7);
 }
