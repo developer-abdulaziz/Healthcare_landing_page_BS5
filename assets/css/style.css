@@ -334,3 +334,43 @@ main {
     color: var(--mainColor);
     margin-top: 10px;
 }
+
+/*================= footer section  ============*/
+/* .contacted ul li:nth-child(1) {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 31.635px;
+    line-height: 47px;
+    letter-spacing: 1px;
+    color: #40A3F8;
+}
+.contacted ul li:nth-child(2), .contacted ul li:nth-child(3) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    color: #646464;
+} */
+.contacted h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 31.635px;
+    line-height: 47px;
+    letter-spacing: 1px;
+    color: #40A3F8;
+}
+.contacted p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    color: #646464;
+
+}
+.c_icon i {
+    background:#DADADA;
+    text-align: center;
+    font-size: 24px;
+    padding: 5px;
+    border-radius: 50px;
+}
