@@ -368,9 +368,64 @@ main {
 
 }
 .c_icon i {
-    background:#DADADA;
+    background:#757070;
     text-align: center;
     font-size: 24px;
     padding: 5px;
     border-radius: 50px;
+    color: #FFFFFF;
+}
+
+.catagory h4, .about h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    color: #323232;
+    margin-bottom: 30px;
+}
+.catagory p, .about p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #646464;
+}
+
+.c_form h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    color: #323232;
+}
+.c_form p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    color: #646464;
+}
+.c_form a {
+    text-align: center;
+}
+input {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
+}
+
+.copyRight h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #646464;
+}
+footer nav ul li a {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #646464;
+
 }
